@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#quiz {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.answerButtons {
+    display: flex;
+    flex-direction: column;
+}
+
+.answerButton {
+    margin: 5px 0;
+}
+
+#assessment {
+    display: none;
+}
+
+.movie-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
